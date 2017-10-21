@@ -107,6 +107,7 @@ Default Prefix: >
   *8ball*         Ask 8 ball a question.
   
   *calc*           Solves complicated math expressions so you don't have to! Can do conversions, and trigonometry functions!
+  
 `+ = addition, - = subtraction, * = multiplication, / = division, sqrt() = square root`
 
   *choose*        Chooses between multiple choices.
