@@ -1,14 +1,5 @@
-**Hoven Documents**
-===================
-
-Introduction
-------------
-
-Hoven is a general multipurpose [Discord](https://www.discordapp.com) bot created by [AmusingThrone#1208](https://github.com/AmusingThrone/). It's purpose is to be useful but also fun! This bot has many supporters who we thank for helping us along the journey. If you would like to be part of this amazing journey, click [here](https://bit.do/hoven). Hoven continues to expand, thanks to all of our supporters we are able to continue making Hoven bigger and better.  We thank you for reading this.
-
-Commands 
-------------
-Default Prefix: >
+## Commands
+Default Prefix: ">", "Hoven ", "Hoven, "
 
 **1. Audio:**
 
@@ -201,3 +192,6 @@ Default Prefix: >
  - *temperature*   Get the temperature only!
  
  - *weather*       Get the weather info!
+
+
+
